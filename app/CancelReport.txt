@@ -1,0 +1,35 @@
+`-._,-'`-._,-'`-._,-'`-._,-
+'  HOYTSOFT CANCELLATION REPORT 
+`-._,-'`-._,-'`-._,-'`-._,-
+'-------------------------
+-------------------------
+User: guest	Time: 2021-11-01T15:13:09.157682600	Reason: User cancelled login
+-------------------------
+User: guest	Time: 2021-11-01T15:13:46.558299	Reason: User cancelled selecting ticket type
+-------------------------
+User: guest	Time: 2021-11-01T15:13:50.609174600	Reason: User cancelled browsing
+-------------------------
+User: autom	Time: 2021-11-01T15:31:41.373292400	Reason: User cancelled browsing
+-------------------------
+User: autolog	Time: 2021-11-01T15:34:00.890646	Reason: User cancelled browsing
+-------------------------
+User: customeruser	Time: 2021-11-02T18:10:12.949491	Reason: User Cancelled
+-------------------------
+User: customeruser	Time: 2021-11-02T18:13:00.058989	Reason: User Cancelled
+-------------------------
+User: customeruser	Time: 2021-11-02T18:14:04.617186	Reason: User cancelled selecting seat allocation
+-------------------------
+User: customeruser	Time: 2021-11-02T18:14:08.534542	Reason: User cancelled browsing
+-------------------------
+User: customeruser	Time: 2021-11-02T18:37:42.381144	Reason: User cancelled payment
+-------------------------
+User: customeruser	Time: 2021-11-02T18:42:34.886250	Reason: User cancelled payment
+-------------------------
+User: customeruser	Time: 2021-11-02T18:44:45.041048	Reason: User cancelled payment
+-------------------------
+User: customeruser	Time: 2021-11-02T18:47:11.294922	Reason: User cancelled payment
+-------------------------
+User: customeruser	Time: 2021-11-02T18:47:23.132476	Reason: User cancelled selecting ticket type
+-------------------------
+User: customeruser	Time: 2021-11-03T14:47:58.102484	Reason: Timeout
+-------------------------

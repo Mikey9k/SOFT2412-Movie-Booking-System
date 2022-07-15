@@ -1,0 +1,95 @@
+`-._,-'`-._,-'`-._,-'`-._,-
+'  HOYTSOFT MOVIES REPORT 
+`-._,-'`-._,-'`-._,-'`-._,-
+'-------------------------
+ _ __ ___   _____   _(_) ___  ___ 
+| '_ ` _ \ / _ \ \ / / |/ _ \/ __|
+| | | | | | (_) \ V /| |  __/\__ \
+|_| |_| |_|\___/ \_/ |_|\___||___/
+-------------------------
+The Matrix	(PG)
+
+*********************
+*** Movie Details ***
+*********************
+Synopsis: Neo enters the matrix.
+Director: John Doe
+Cast: Jane Doe as Neo, Taylor Brown as The Man
+
+********************
+*** Show Details ***
+********************
+Release Date: 2005-12-12
+Showing at: Sydney
+Screen size: Bronze
+Showing times:
+
+  Monday:
+
+	18:30
+
+  Friday:
+
+	20:30
+
+
+-------------------------
+The Matrix 2	(MA15)
+
+*********************
+*** Movie Details ***
+*********************
+Synopsis: Neo enters the matrix again.
+Director: John Doe
+Cast: Jane Doe as Neo, Taylor Brown as The Man
+
+********************
+*** Show Details ***
+********************
+Release Date: 2009-08-06
+Showing at: Sydney
+Screen size: Silver
+Showing times:
+
+  Tuesday:
+
+	19:00
+
+  Wednesday:
+
+	18:30
+
+  Thursday:
+
+	18:30
+
+
+-------------------------
+Batman	(M)
+
+*********************
+*** Movie Details ***
+*********************
+Synopsis: Bat Man
+Director: Christopher Nolan
+Cast: Christian Bale as Batman
+
+********************
+*** Show Details ***
+********************
+Release Date: 2013-11-30
+Showing at: Melbourne
+Screen size: Gold
+Showing times:
+
+  Tuesday:
+
+	12:30
+	21:00
+
+  Wednesday:
+
+	18:30
+
+
+-------------------------

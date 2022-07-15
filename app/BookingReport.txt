@@ -1,0 +1,530 @@
+`-._,-'`-._,-'`-._,-'`-._,-
+'  HOYTSOFT BOOKINGS REPORT 
+`-._,-'`-._,-'`-._,-'`-._,-
+'-------------------------
+-------------------------
+The Matrix	(M)
+Showing at: Sydney
+Screen size: Bronze
+Showing times:
+
+  Monday:
+
+	23:49
+Total 302 seats.
+2 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 301 seats.
+1 Seats currently booked.
+300 Seats left available.
+
+	12:30
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	22:00
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	10:00
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Tuesday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Wednesday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Thursday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Friday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	21:00
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Saturday:
+
+	23:49
+Total 297 seats.
+0 Seats currently booked.
+297 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Sunday:
+
+	23:00
+Total 299 seats.
+0 Seats currently booked.
+299 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+
+-------------------------
+The Matrix 2	(M)
+Showing at: Sydney
+Screen size: Silver
+Showing times:
+
+  Monday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Tuesday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Wednesday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Thursday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Friday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Saturday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Sunday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+
+-------------------------
+The Matrix 3	(M)
+Showing at: Sydney
+Screen size: Bronze
+Showing times:
+
+  Monday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Tuesday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Wednesday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Thursday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Friday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Saturday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Sunday:
+
+	23:49
+Total 210 seats.
+0 Seats currently booked.
+210 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+
+-------------------------
+Batman	(M)
+Showing at: Sydney
+Screen size: Gold
+Showing times:
+
+  Friday:
+
+	18:00
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+
+
+-------------------------
+COD 1	(M)
+Showing at: Melbourne
+Screen size: Gold
+Showing times:
+
+  Monday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Tuesday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Wednesday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Thursday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Friday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Saturday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+  Sunday:
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+	23:49
+Total 300 seats.
+0 Seats currently booked.
+300 Seats left available.
+
+
+
+-------------------------
+COD 1	(M)
+Showing at: Hobart
+Screen size: Gold
+Showing times:
+
+  Monday:
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+
+  Tuesday:
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+
+  Wednesday:
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+
+  Thursday:
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+
+  Friday:
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+
+  Saturday:
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+
+  Sunday:
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+	23:49
+Total 0 seats.
+0 Seats currently booked.
+0 Seats left available.
+
+
+
+-------------------------

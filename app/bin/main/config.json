@@ -1,0 +1,24 @@
+{
+    "timeoutSeconds": 120,
+    "ticketPrices": {
+        "Bronze": {
+            "student": 6.0,
+            "pensioner": 5.0,
+            "adult": 10.0,
+            "child": 5.0
+        },
+        "Gold": {
+            "student": 12.0,
+            "pensioner": 9.0,
+            "adult": 18.0,
+            "child": 9.0
+        },
+        "Silver": {
+            "student": 8.0,
+            "pensioner": 6.0,
+            "adult": 12.0,
+            "child": 6.0
+        }
+    },
+    "transactionID": 100000
+}
